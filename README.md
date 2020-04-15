@@ -1,6 +1,7 @@
 # Docker image with Kubectl and Helm with s3 plugin
 
-[![](https://images.microbadger.com/badges/image/simpleadm/kubectl-helm-s3.svg)](https://microbadger.com/images/simpleadm/kubectl-helm-s3)
+[![](https://images.microbadger.com/badges/image/simpleadm/kubectl-helm-s3.svg)](https://microbadger.com/images/simpleadm/kubectl-helm-s3 "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/simpleadm/kubectl-helm-s3.svg)](https://microbadger.com/images/simpleadm/kubectl-helm-s3 "Get your own version badge on microbadger.com")
 
 [![Docker build](http://dockeri.co/image/simpleadm/kubectl-helm-s3)](https://hub.docker.com/r/simpleadm/kubectl-helm-s3/)
 
